@@ -38,6 +38,13 @@ public class calendarController {
         return response;
     }
 
+    @GetMapping("/emptyJson")
+    public ResponseEntity<EventCalendar> emptyJson(){
+        ResponseEntity response = new ResponseEntity<>("", HttpStatus.OK);
+        return response;
+
+    }
+
     private static List<EventCalendar> leerObjetosDesdeJSON() {
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.findAndRegisterModules();
