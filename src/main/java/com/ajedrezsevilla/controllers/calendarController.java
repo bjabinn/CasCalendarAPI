@@ -20,9 +20,11 @@ import java.util.OptionalLong;
 @Log4j2
 @RequestMapping("/calendar")
 @EnableCaching
+@CrossOrigin(origins = "*")
 public class calendarController {
 
     @GetMapping()
+
     public ResponseEntity<EventCalendar> getAll(){
         List<EventCalendar> objetos = leerObjetosDesdeJSON();
         ResponseEntity response = new ResponseEntity<>(objetos, HttpStatus.OK);
@@ -132,14 +134,6 @@ public class calendarController {
     //--------------------
     //---------METODOS PRIVADOS
     //---------------------
-
-    private static List<EventCalendar> añadeEvento(EventCalendar evento, List<EventCalendar> lista){
-        Long id = lista.stream().mapToLong(EventCalendar::getId).max().orElse(0);
-        evento.setId(id);
-        lista.add(evento);
-        return lista;
-    }
-
     private static List<EventCalendar> leerObjetosDesdeJSON() {
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.findAndRegisterModules();
