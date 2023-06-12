@@ -11,6 +11,7 @@ import java.time.LocalDateTime;
 @Setter
 @ToString
 public class EventCalendar {
+    long id;
     String nombreTorneo;
     String sistemaDeJuego;
     String precio;

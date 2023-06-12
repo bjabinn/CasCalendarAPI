@@ -1,4 +1,5 @@
 [ {
+  "id" : 1,
   "nombreTorneo" : "nombreTorneo",
   "sistemaDeJuego" : "sistemaDeJuego",
   "precio" : "precio",
@@ -9,13 +10,25 @@
   "location" : "location",
   "visible" : false
 }, {
+  "id" : 2,
   "nombreTorneo" : "Torneo2",
   "sistemaDeJuego" : "sistemaDeJuego",
-  "precio" : "precio",
+  "precio" : "precioUpdated",
   "basesURL" : "basesURL",
   "notas" : "notas",
   "comienzo" : "2023-06-08 11:03",
   "fin" : "2023-06-08 11:30",
   "location" : "location",
   "visible" : false
+}, {
+  "id" : 3,
+  "nombreTorneo" : "nombreTorneo3",
+  "sistemaDeJuego" : "sistemaDeJuego3",
+  "precio" : "precio3",
+  "basesURL" : "basesURL3",
+  "notas" : "notas",
+  "comienzo" : "2023-06-08 11:03",
+  "fin" : "2023-06-08 11:30",
+  "location" : "location",
+  "visible" : true
 } ]
