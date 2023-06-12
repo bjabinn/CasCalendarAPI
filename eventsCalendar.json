@@ -1,34 +1,12 @@
 [ {
   "id" : 1,
-  "nombreTorneo" : "nombreTorneo",
-  "sistemaDeJuego" : "sistemaDeJuego",
-  "precio" : "precio",
-  "basesURL" : "basesURL",
-  "notas" : "notas",
-  "comienzo" : "2023-06-08 11:03",
-  "fin" : "2023-06-08 11:30",
-  "location" : "location",
-  "visible" : false
-}, {
-  "id" : 2,
-  "nombreTorneo" : "Torneo2",
-  "sistemaDeJuego" : "sistemaDeJuego",
-  "precio" : "precioUpdated",
-  "basesURL" : "basesURL",
-  "notas" : "notas",
-  "comienzo" : "2023-06-08 11:03",
-  "fin" : "2023-06-08 11:30",
-  "location" : "location",
-  "visible" : false
-}, {
-  "id" : 3,
-  "nombreTorneo" : "nombreTorneo3",
-  "sistemaDeJuego" : "sistemaDeJuego3",
-  "precio" : "precio3",
-  "basesURL" : "basesURL3",
-  "notas" : "notas",
-  "comienzo" : "2023-06-08 11:03",
-  "fin" : "2023-06-08 11:30",
-  "location" : "location",
+  "nombreTorneo" : "VI Torneo Piscinero (Utrera)",
+  "sistemaDeJuego" : "8 Rondas. 8+3",
+  "precio" : "Federados: 10€-Sub18: 7€-No federado: +2€",
+  "basesURL" : "https://www.fadajedrez.com/index.php/delegaciones/sevillana/torneos-en-sevilla/1729-vi-torneo-piscinero-de-ajedrez-ciudad-de-utrera/2023-06-24-09-00",
+  "notas" : "Muy divertido para niños a partir de 5 años.",
+  "comienzo" : "2023-06-24T09:00:00",
+  "fin" : "2023-06-24T159:00:00",
+  "location" : "Calle Residencial Parque de Consolación s/n",
   "visible" : true
 } ]
