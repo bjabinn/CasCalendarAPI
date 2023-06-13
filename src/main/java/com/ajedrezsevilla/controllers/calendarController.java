@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.io.File;
 import java.io.IOException;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.OptionalLong;
@@ -23,8 +24,9 @@ import java.util.OptionalLong;
 @CrossOrigin(origins = "*")
 public class calendarController {
 
-    @GetMapping()
+    DateTimeFormatter format = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm");
 
+    @GetMapping()
     public ResponseEntity<EventCalendar> getAll(){
         List<EventCalendar> objetos = leerObjetosDesdeJSON();
         ResponseEntity response = new ResponseEntity<>(objetos, HttpStatus.OK);
