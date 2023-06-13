@@ -49,11 +49,13 @@ public class calendarController {
         ResponseEntity response;
         System.out.println("-------------------------------------------1");
         if (id != 0){
+            System.out.println("-------------------------------------------id != 0");
             nuevoEvento.setId(id+1);
-            objetos.add(nuevoEvento);
             System.out.println("-------------------------------------------2");
-            escribirObjetosEnJSON(objetos);
+            objetos.add(nuevoEvento);
             System.out.println("-------------------------------------------3");
+            escribirObjetosEnJSON(objetos);
+
             response = new ResponseEntity<>(nuevoEvento, HttpStatus.OK);
         }else{
             response = new ResponseEntity("Error creando evento", HttpStatus.OK);
