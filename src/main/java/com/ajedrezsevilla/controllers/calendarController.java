@@ -48,7 +48,7 @@ public class calendarController {
         Long id = objetos.stream().mapToLong(EventCalendar::getId).max().orElse(0);
         ResponseEntity response;
         System.out.println("-------------------------------------------1");
-        if (id != 0){
+        try {
             System.out.println("-------------------------------------------id != 0");
             nuevoEvento.setId(id+1);
             System.out.println("-------------------------------------------2");
@@ -57,10 +57,9 @@ public class calendarController {
             escribirObjetosEnJSON(objetos);
 
             response = new ResponseEntity<>(nuevoEvento, HttpStatus.OK);
-        }else{
+        } catch (Exception e) {
             response = new ResponseEntity("Error creando evento", HttpStatus.OK);
         }
-
 
         return response;
     }
