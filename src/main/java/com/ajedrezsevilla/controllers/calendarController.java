@@ -47,10 +47,13 @@ public class calendarController {
         List<EventCalendar> objetos = leerObjetosDesdeJSON();
         Long id = objetos.stream().mapToLong(EventCalendar::getId).max().orElse(0);
         ResponseEntity response;
+        System.out.println("-------------------------------------------1");
         if (id != 0){
             nuevoEvento.setId(id+1);
             objetos.add(nuevoEvento);
+            System.out.println("-------------------------------------------2");
             escribirObjetosEnJSON(objetos);
+            System.out.println("-------------------------------------------3");
             response = new ResponseEntity<>(nuevoEvento, HttpStatus.OK);
         }else{
             response = new ResponseEntity("Error creando evento", HttpStatus.OK);
