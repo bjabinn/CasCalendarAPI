@@ -1,1 +1,98 @@
-[ ]
+[
+    {
+        "id": 2,
+        "nombreTorneo": "VI Torneo Piscinero (Utrera)",
+        "sistemaDeJuego": "8 Rondas. 8+3",
+        "precio": "Federados: 10€<br>Sub18: 7€.<br>No federados +2€",
+        "basesURL": "https://www.fadajedrez.com/index.php/delegaciones/sevillana/torneos-en-sevilla/1729-vi-torneo-piscinero-de-ajedrez-ciudad-de-utrera/2023-06-24-09-00",
+        "notas": "Muy divertido para niños a partir de 5 años.",
+        "comienzo": "2023-06-24 09:00",
+        "fin": "2023-06-24 15:00",
+        "location": "Calle Residencial Parque de Consolación s/n",
+        "visible": true
+    },
+    {
+        "id": 3,
+        "nombreTorneo": "(Huelva) V Torneo de Ajedrez Las Colonias",
+        "sistemaDeJuego": "7 rondas. 8+3",
+        "precio": "No federados +2€",
+        "basesURL": "https://www.fadajedrez.com/images/2023/las_colonias/bases_Torneo_Colonias_1515.pdf",
+        "notas": "Sub-8-10-12-14-16-18. Máximo 55 participantes. Para los todos los sub-08 habrá medalla. Inscripciones hasta el 27/06",
+        "comienzo": "2023-06-29 17:30",
+        "fin": "2023-06-29 21:00",
+        "location": "Avenida Cristóbal Colón Nº85 Bajo (Huelva) ",
+        "visible": true
+    },
+    {
+        "id": 4,
+        "nombreTorneo": "(Zahara - Cádiz) II Abierto de Ajedrez Clásico Sub 2200 - Dia1",
+        "sistemaDeJuego": "7 rondas 80+10",
+        "precio": "Cuota general: 31€<br>28€ mayor de 60 y menores de 18.",
+        "basesURL": "https://www.zahara.es/images/Documentos/ajedrez/BASES_Sub_2200_ZAHARA23_2.pdf",
+        "notas": "Maximo 100 participantes. ",
+        "comienzo": "2023-06-30 16:30",
+        "fin": "2023-06-30 21:00",
+        "location": "Salón: “Bajo Plaza”, Plaza del Rey” s/n",
+        "visible": true
+    },
+    {
+        "id": 5,
+        "nombreTorneo": "(Zahara - Cádiz) II Abierto de Ajedrez Clásico Sub 2200 - Dia2",
+        "sistemaDeJuego": "7 rondas 80+10",
+        "precio": "Cuota general: 31€<br>28€ mayor de 60 y menores de 18.",
+        "basesURL": "https://www.zahara.es/images/Documentos/ajedrez/BASES_Sub_2200_ZAHARA23_2.pdf",
+        "notas": "Maximo 100 participantes. ",
+        "comienzo": "2023-07-01 09:00",
+        "fin": "2023-07-01 18:00",
+        "location": "Salón: “Bajo Plaza”, Plaza del Rey” s/n",
+        "visible": true
+    },
+    {
+        "id": 6,
+        "nombreTorneo": "(Zahara - Cádiz) II Abierto de Ajedrez Clásico Sub 2200 - Dia3",
+        "sistemaDeJuego": "7 rondas 80+10",
+        "precio": "",
+        "basesURL": "https://www.zahara.es/images/Documentos/ajedrez/BASES_Sub_2200_ZAHARA23_2.pdf",
+        "notas": "Maximo 100 participantes. ",
+        "comienzo": "2023-07-02 09:00",
+        "fin": "2023-07-02 13:30",
+        "location": "Salón: “Bajo Plaza”, Plaza del Rey” s/n",
+        "visible": true
+    },
+    {
+        "id": 7,
+        "nombreTorneo": "(La Antilla- Huelva) XX Open Internacional de La Antilla",
+        "sistemaDeJuego": "7 rondas 11+0",
+        "precio": "10€. +2 No federados",
+        "basesURL": "https://ajedrezdiagonal.es/wp-content/uploads/2023/05/BASES_XX_Open_Internacional_de_La_Antilla486.pdf",
+        "notas": "Sub8-->Veterano y categoria familia",
+        "comienzo": "2023-07-07 20:00",
+        "fin": "2023-07-07 23:59",
+        "location": "Plaza Clara Campoamor - junto a Centro Cultural Los Álamos",
+        "visible": true
+    },
+    {
+        "id": 8,
+        "nombreTorneo": "Open Ciudad de Chiclana",
+        "sistemaDeJuego": "7 rondas 15+10",
+        "precio": "14€ - Sub18: 10€ - No federado: +2€",
+        "basesURL": "https://ajedrezgaditano.com/www/wp-content/uploads/torneos/2023/circuito/ciudadchiclana/bases.pdf",
+        "notas": "Máximo 80 jugadores. Sub8->Sub18 - Supra50 - Supra65",
+        "comienzo": "2023-07-08 10:00",
+        "fin": "2023-07-08 18:30",
+        "location": ": Polideportivo Huerta Rosario, Callejón de los Frailes S/N ",
+        "visible": true
+    },
+    {
+        "id": 9,
+        "nombreTorneo": "(Brenes - Sevilla) XXI Torneo Villa de Brenes",
+        "sistemaDeJuego": "8 rondas. 8+3",
+        "precio": "5€. No federados: +2€",
+        "basesURL": "https://ajedrezdiagonal.es/wp-content/uploads/2023/05/BASES-XXI-Villa-de-Brenes-2023.pdf",
+        "notas": "Maximo 100 participantes. Categorias: Sub12->Sub16. Supra50. Tramos ELO",
+        "comienzo": "2023-07-29 10:00",
+        "fin": "2023-07-29 14:30",
+        "location": "Calle Amparo Mateo Silva s/n",
+        "visible": true
+    }
+]
