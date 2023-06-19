@@ -106,5 +106,41 @@
         "fin": "2023-07-08 23:59",
         "location": "",
         "visible": true
+    },
+    {
+        "id": 10,
+        "nombreTorneo": "(Bormujo - Sevilla) Festival Internacional de Ajedrez (Dia1)",
+        "sistemaDeJuego": "7 rondas. 80+10",
+        "precio": "",
+        "basesURL": "http://www.asodea.com/2023/02/04/festival-internacional-hotel-vertice-aljarafe-4-sevilla-bormujos-3/",
+        "notas": "",
+        "comienzo": "2023-08-25 15:30",
+        "fin": "2023-08-25 21:00",
+        "location": "",
+        "visible": true
+    },
+    {
+        "id": 11,
+        "nombreTorneo": "(Bormujo - Sevilla) Festival Internacional de Ajedrez (Dia2)",
+        "sistemaDeJuego": "7 rondas. 80+10",
+        "precio": "",
+        "basesURL": "http://www.asodea.com/2023/02/04/festival-internacional-hotel-vertice-aljarafe-4-sevilla-bormujos-3/",
+        "notas": "",
+        "comienzo": "2023-08-26 09:00",
+        "fin": "2023-08-26 18:30",
+        "location": "",
+        "visible": true
+    },
+    {
+        "id": 12,
+        "nombreTorneo": "(Bormujo - Sevilla) Festival Internacional de Ajedrez (Dia3)",
+        "sistemaDeJuego": "7 rondas. 80+10",
+        "precio": "",
+        "basesURL": "http://www.asodea.com/2023/02/04/festival-internacional-hotel-vertice-aljarafe-4-sevilla-bormujos-3/",
+        "notas": "",
+        "comienzo": "2023-08-27 09:00",
+        "fin": "2023-08-27 14:00",
+        "location": "",
+        "visible": true
     }
 ]
