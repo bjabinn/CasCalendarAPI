@@ -1,7 +1,7 @@
 [
     {
         "id": 2,
-        "nombreTorneo": "VI Torneo Piscinero (Utrera)",
+        "nombreTorneo": "(Utrera - Sevilla) VI Torneo Piscinero",
         "sistemaDeJuego": "8 Rondas. 8+3",
         "precio": "Federados: 10€<br>Sub18: 7€.<br>No federados +2€",
         "basesURL": "https://www.fadajedrez.com/index.php/delegaciones/sevillana/torneos-en-sevilla/1729-vi-torneo-piscinero-de-ajedrez-ciudad-de-utrera/2023-06-24-09-00",
@@ -73,9 +73,9 @@
     },
     {
         "id": 8,
-        "nombreTorneo": "Open Ciudad de Chiclana",
+        "nombreTorneo": "(Chiclana - Cádiz) Open Ciudad de Chiclana",
         "sistemaDeJuego": "7 rondas 15+10",
-        "precio": "14€ - Sub18: 10€ - No federado: +2€",
+        "precio": "14€<br>Sub18: 10€<br>No federado: +2€",
         "basesURL": "https://ajedrezgaditano.com/www/wp-content/uploads/torneos/2023/circuito/ciudadchiclana/bases.pdf",
         "notas": "Máximo 80 jugadores. Sub8->Sub18 - Supra50 - Supra65",
         "comienzo": "2023-07-08 10:00",
