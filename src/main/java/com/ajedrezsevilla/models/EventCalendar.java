@@ -26,4 +26,6 @@ public class EventCalendar {
 
     String location;
     boolean isVisible;
+
+    long calendarId;
 }
