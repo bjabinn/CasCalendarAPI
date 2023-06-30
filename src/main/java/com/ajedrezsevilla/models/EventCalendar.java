@@ -27,5 +27,5 @@ public class EventCalendar {
     String location;
     boolean isVisible;
 
-    long calendarId;
+    long calendarId;  //esto sirve para almacenar las provinciaId
 }

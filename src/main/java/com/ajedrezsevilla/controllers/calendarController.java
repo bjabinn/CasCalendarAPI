@@ -84,6 +84,7 @@ public class calendarController {
         if (resultado != null){
             //resultado = objectMapper.readValue(objectMapper.writeValueAsString(evento), EventCalendar.class);
             resultado.setNombreTorneo(evento.getNombreTorneo());
+            resultado.setCalendarId(evento.getCalendarId());
             resultado.setSistemaDeJuego(evento.getSistemaDeJuego());
             resultado.setPrecio(evento.getPrecio());
             resultado.setBasesURL(evento.getBasesURL());
