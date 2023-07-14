@@ -6,6 +6,7 @@ import lombok.Setter;
 import lombok.ToString;
 
 import java.time.LocalDateTime;
+import java.util.List;
 
 @Getter
 @Setter
@@ -28,4 +29,6 @@ public class EventCalendar {
     boolean isVisible;
 
     long calendarId;  //esto sirve para almacenar las provinciaId
+
+    List<String> categorias;
 }

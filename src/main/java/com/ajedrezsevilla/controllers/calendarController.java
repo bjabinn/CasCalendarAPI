@@ -93,6 +93,7 @@ public class calendarController {
             resultado.setFin(evento.getFin());
             resultado.setLocation(evento.getLocation());
             resultado.setVisible(evento.isVisible());
+            resultado.setCategorias(evento.getCategorias());
         }
         escribirObjetosEnJSON(objetos);
         ResponseEntity response = new ResponseEntity<>(resultado, HttpStatus.OK);
