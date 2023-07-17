@@ -400,5 +400,19 @@
       "fada"
     ],
     "visible": true
+  },
+  {
+    "id": 29,
+    "nombreTorneo": "Rota - XXXIV Open Castillo de Luna",
+    "sistemaDeJuego": "",
+    "precio": "",
+    "basesURL": "",
+    "notas": "",
+    "comienzo": "2023-08-12 17:00",
+    "fin": "2023-08-12 18:00",
+    "location": "",
+    "calendarId": 1,
+    "categorias": [],
+    "visible": true
   }
 ]
