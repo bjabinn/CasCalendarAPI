@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombreTorneo": "(Utrera - Sevilla) VI Torneo Piscinero",
+    "nombreTorneo": "Utrera - VI Torneo Piscinero",
     "sistemaDeJuego": "8 Rondas. 8+3",
     "precio": "Federados: 10€<br>Sub18: 7€.<br>No federados +2€",
     "basesURL": "https://www.fadajedrez.com/index.php/delegaciones/sevillana/torneos-en-sevilla/1729-vi-torneo-piscinero-de-ajedrez-ciudad-de-utrera/2023-06-24-09-00",
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "nombreTorneo": "(Zahara - Cádiz) II Abierto de Ajedrez Clásico Sub 2200 - Dia1",
+    "nombreTorneo": "Zahara - II Abierto de Ajedrez Clásico Sub 2200 - Dia1",
     "sistemaDeJuego": "7 rondas 80+10",
     "precio": "Cuota general: 31€<br>28€ mayor de 60 y menores de 18.",
     "basesURL": "https://www.zahara.es/images/Documentos/ajedrez/BASES_Sub_2200_ZAHARA23_2.pdf",
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "nombreTorneo": "(Zahara - Cádiz) II Abierto de Ajedrez Clásico Sub 2200 - Dia2",
+    "nombreTorneo": "Zahara - II Abierto de Ajedrez Clásico Sub 2200 - Dia2",
     "sistemaDeJuego": "7 rondas 80+10",
     "precio": "Cuota general: 31€<br>28€ mayor de 60 y menores de 18.",
     "basesURL": "https://www.zahara.es/images/Documentos/ajedrez/BASES_Sub_2200_ZAHARA23_2.pdf",
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "nombreTorneo": "(Zahara - Cádiz) II Abierto de Ajedrez Clásico Sub 2200 - Dia3",
+    "nombreTorneo": "Zahara - II Abierto de Ajedrez Clásico Sub 2200 - Dia3",
     "sistemaDeJuego": "7 rondas 80+10",
     "precio": "",
     "basesURL": "https://www.zahara.es/images/Documentos/ajedrez/BASES_Sub_2200_ZAHARA23_2.pdf",
@@ -71,7 +71,7 @@
   },
   {
     "id": 6,
-    "nombreTorneo": "(La Antilla- Huelva) XX Open Internacional de La Antilla",
+    "nombreTorneo": "La Antilla- XX Open Internacional de La Antilla",
     "sistemaDeJuego": "7 rondas 11+0",
     "precio": "10€. +2 No federados",
     "basesURL": "https://ajedrezdiagonal.es/wp-content/uploads/2023/05/BASES_XX_Open_Internacional_de_La_Antilla486.pdf",
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "nombreTorneo": "(Chiclana - Cádiz) Open Ciudad de Chiclana",
+    "nombreTorneo": "Chiclana - Open Ciudad de Chiclana",
     "sistemaDeJuego": "7 rondas 15+10",
     "precio": "14€<br>Sub18: 10€<br>No federado: +2€",
     "basesURL": "https://ajedrezgaditano.com/www/wp-content/uploads/torneos/2023/circuito/ciudadchiclana/bases.pdf",
@@ -113,7 +113,7 @@
   },
   {
     "id": 9,
-    "nombreTorneo": "(Mazagón - Huelva) ",
+    "nombreTorneo": "Mazagón",
     "sistemaDeJuego": "7 rondas. 8+3",
     "precio": "5€. +2€ No federados.",
     "basesURL": "https://www.fadajedrez.com/images/2023/Mazagon/Bases__Mazagon_Huelva.pdf",
